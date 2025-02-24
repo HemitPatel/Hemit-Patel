@@ -34,4 +34,4 @@ Web Search Engine that crawls the web and uses keywords to search through those 
 
 ## Contact
 - **Email**: [hemit58@gmail.com](mailto:hemit58@gmail.com)
-- **LinkedIn**: [Hemit Patel](https://www.linkedin.com/in/hemitpatel)
+- **LinkedIn**: [Hemit Patel](https://www.linkedin.com/in/hemit-patel/)
